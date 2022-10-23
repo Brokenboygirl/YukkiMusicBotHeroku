@@ -1,2 +1,2 @@
 echo "Cloning The Full Repo & Starting ...."
-git clone https://github.com/Brokenboygirl/YukkiMusicBotHeroku && mv YukkiMusicBot main && cd main && bash start
+git clone https://github.com/TeamYukki/YukkiMusicBot/ && mv YukkiMusicBot main && cd main && bash start

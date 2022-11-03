@@ -23,7 +23,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "5710781456:AAEdDYSejO_xgOiiFUNg8TdIGdFS1gmNaC0",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -43,7 +43,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "AQCO385tSEGqUFr7ObXVNxwg3rkjmrSmiLWMBC0rHkszwIlect9_HqCkDXxS5jx8ZALEICz-fWD0n6EFChldd1XDC_J9If-yowmZMDSLpBhYolgOtLMvv8WqDCEP2Z3UY41kpwYUN8ImdGzbjf6InEQsn37C6n2nBtLRNkR4tN2hU_BRMZARRMkkHHS2AvQMAd3Di9vbC6ZQhReRLtfXskakLDWLoMJ4DfmfUrIksqm9HnPFn8TYhL71B2vG-UQVn98eaHQCwc35wINga3_X5ltRn0UG2qgbsQQidQT_0UTY6HGPcYetm40bl3Gh985OmyEhPy5TLupPU0mN6KwX9qSJAAAAATcvfEQA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
